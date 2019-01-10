@@ -5,4 +5,6 @@
 
 	echo "Olá, Udemy!";
 
+	echo "Olá, amigo!";
+
 ?>
